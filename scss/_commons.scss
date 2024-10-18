@@ -48,7 +48,8 @@ html{
         margin: 10px 5px 5px 5px;
         text-decoration: none;
         font-weight: 400;
-        width: 150px;      
+        width: 150px;
+        border-radius: 7px;      
         &:hover{
             color: map-get($map: $paleta, $key:'SecondColor' ) ;
             background-color:$mainColor;
@@ -89,6 +90,7 @@ html{
     font-weight: 400;
     width: 150px;
     border: 1px solid black;
+    border-radius: 7px;
     &:hover{
         color: white;
         background-color:black;

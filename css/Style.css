@@ -23,7 +23,8 @@ html {
   margin: 10px 5px 5px 5px;
   text-decoration: none;
   font-weight: 400;
-  width: 150px; }
+  width: 150px;
+  border-radius: 7px; }
   .btn-1:hover, .btnForm:hover {
     color: #dadada;
     background-color: #A14D9D; }
@@ -58,7 +59,8 @@ html {
   text-decoration: none;
   font-weight: 400;
   width: 150px;
-  border: 1px solid black; }
+  border: 1px solid black;
+  border-radius: 7px; }
   .btnOutline:hover {
     color: white;
     background-color: black; }
@@ -270,7 +272,8 @@ figure {
   background-color: #d8c5e5; }
 
 .projectNav {
-  font-size: 1.5rem; }
+  font-size: 1.5rem;
+  font-weight: 600; }
 
 #imgUnit {
   width: 100%; }
