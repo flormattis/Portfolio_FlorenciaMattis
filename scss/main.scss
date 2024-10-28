@@ -25,6 +25,12 @@
     .projectNav{
         font-size: 1.1rem;
     }
+    .perfil-img{
+        Width: 75%
+    }
+    #contenedor-img{
+        width:75%
+    }
 }
 
 @media only screen and (min-width: 500px){
@@ -62,6 +68,9 @@
 
     .btn-1{
         font-size: 1.8rem;   
+    }
+    .perfil-img{
+        Width: 100%
     }
 }
 
@@ -112,6 +121,9 @@
 
     #imgUnit{
         width: 75%;
+    }
+    .perfil-img{
+        Width: 100%
     }
 }
 

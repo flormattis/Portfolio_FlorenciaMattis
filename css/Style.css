@@ -319,7 +319,11 @@ figure {
   iframe {
     width: 100%; }
   .projectNav {
-    font-size: 1.1rem; } }
+    font-size: 1.1rem; }
+  .perfil-img {
+    Width: 75%; }
+  #contenedor-img {
+    width: 75%; } }
 
 @media only screen and (min-width: 500px) {
   nav ul li {
@@ -342,7 +346,9 @@ figure {
     font-size: 1.6rem;
     padding-top: 10px; }
   .btn-1, .btnForm {
-    font-size: 1.8rem; } }
+    font-size: 1.8rem; }
+  .perfil-img {
+    Width: 100%; } }
 
 @media only screen and (min-width: 768px) {
   .grid-figures {
@@ -372,7 +378,9 @@ figure {
   #carousel-char {
     width: 90%; }
   #imgUnit {
-    width: 75%; } }
+    width: 75%; }
+  .perfil-img {
+    Width: 100%; } }
 
 @media only screen and (min-width: 1200px) {
   .grid {
